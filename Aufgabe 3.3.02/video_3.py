@@ -10,3 +10,4 @@ root.mainloop() # Emdlosschleife die permanent prüft, ob ein Event auftritt
                 # Mithilfe von Programmcode kann auf beliebige Events reagiert werden
 
 print("Testausgabe")
+
