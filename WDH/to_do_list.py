@@ -424,6 +424,19 @@ tree_data.bind("<Button-3>", show_context_menu)
 
 load_tasks(); apply_theme(); refresh_views()
 start_reminder_thread()
+
+# Fester Hinweis unten rechts
+lbl_hint = tk.Label(
+    root,
+    text="💡 Tipp: Rechtsklick auf eine Aufgabe öffnet das Kontextmenü.",
+    anchor="e",
+    fg="#FFFEFE",
+    bg=root["bg"],
+    padx=10,
+    pady=5
+)
+lbl_hint.pack(side="bottom", fill="x", anchor="se")
+
 root.mainloop()
 
 
