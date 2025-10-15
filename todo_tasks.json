@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Aufgabe 1",
+    "prio": "Niedrig",
+    "created": "15/10/25",
+    "due": "14/10/25",
+    "done": false
+  },
+  {
+    "text": "Aufgabe 2",
+    "prio": "Mittel",
+    "created": "15/10/25",
+    "due": "15/10/25",
+    "done": false
+  },
+  {
+    "text": "Aufgabe 3",
+    "prio": "Hoch",
+    "created": "15/10/25",
+    "due": "16/10/25",
+    "done": false
+  },
+  {
+    "text": "Aufgabe 4",
+    "prio": "Hoch",
+    "created": "15/10/25",
+    "due": "15/10/25",
+    "done": false
+  },
+  {
+    "text": "Aufgabe 5",
+    "prio": "Mittel",
+    "created": "15/10/25",
+    "due": "15/10/25",
+    "done": true
+  }
+]
